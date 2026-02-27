@@ -10,7 +10,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@whenphysics)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-7289-8827)
 
----
 
 </div>
 
@@ -20,7 +19,6 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 
 **📍 Burgos, Spain** · **🏢 ITCL**
 
----
 
 ## 🚀 Featured projects
 
@@ -59,7 +57,6 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 |---------|-------------|
 | [**DifferentialLab**](https://github.com/DOKOS-TAYOS/DifferentialLab) | GUI for solving and visualizing ODEs numerically. Methods: RK45, DOP853, Radau, BDF, etc. |
 
----
 
 ## 📺 When Physics
 
@@ -67,7 +64,6 @@ I share physics and quantum computing on my YouTube channel:
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@whenphysics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@whenphysics)
 
----
 
 ## 📊 Stack
 
@@ -78,7 +74,6 @@ I share physics and quantum computing on my YouTube channel:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
----
 
 <div align="center">
 
