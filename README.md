@@ -48,6 +48,7 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 
 | Project | Description |
 |---------|-------------|
+| [**Curso Algoritmos Cuánticos Qiskit**](https://github.com/DOKOS-TAYOS/Curso_Algoritmos_Cuanticos_Qiskit) | Quantum algorithms course with practical implementations in Qiskit 2.2.x (Jupyter notebooks) |
 | [**QAOA Foro Nuevos Paradigmas**](https://github.com/DOKOS-TAYOS/QAOA_Foro_Nuevos_Paradigmas) | QAOA implementation for the Quantum Computing Forum |
 | [**Mini-Qiskit with TN**](https://github.com/DOKOS-TAYOS/Mini-Qiskit_with_Tensor_Networks) | Mini-Qiskit implementation using tensor networks |
 
