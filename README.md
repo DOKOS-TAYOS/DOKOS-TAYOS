@@ -27,6 +27,7 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 | Project | Description |
 |---------|-------------|
 | [**RegressionLab**](https://github.com/DOKOS-TAYOS/RegressionLab) | Curve fitting tool with GUI (Streamlit + Tkinter). 20+ functions, error propagation, multilingual. |
+| [**Tensor-Network-Visualization**](https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization) | 2D and 3D tensor network visualization for TensorKrowch (Matplotlib + NetworkX). |
 
 ### 📐 Research with interactive demos
 
@@ -57,6 +58,7 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 | Project | Description |
 |---------|-------------|
 | [**DifferentialLab**](https://github.com/DOKOS-TAYOS/DifferentialLab) | GUI for solving and visualizing ODEs numerically. Methods: RK45, DOP853, Radau, BDF, etc. |
+| [**Aircraft Loading Problem Tensor-QUDO**](https://github.com/DOKOS-TAYOS/Aircraft-Loading-Problem-Tensor-QUDO) | Aircraft Loading Problem with Tensor-QUDO formulation (QAOA + Simulated Annealing solvers). |
 
 
 ## 📺 When Physics
