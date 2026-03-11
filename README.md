@@ -27,7 +27,7 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 | Project | Description |
 |---------|-------------|
 | [**RegressionLab**](https://github.com/DOKOS-TAYOS/RegressionLab) | Curve fitting tool with GUI (Streamlit + Tkinter). 20+ functions, error propagation, multilingual. |
-| [**Tensor-Network-Visualization**](https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization) | 2D and 3D tensor network visualization for TensorKrowch (Matplotlib + NetworkX). |
+| [**Tensor-Network-Visualization**](https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization) | 2D and 3D tensor network visualization for Torch, Numpy, Quimb, Tensorkrowch, TenPy and TensorNetwork (Matplotlib + NetworkX). |
 | [**PickCounter**](https://github.com/DOKOS-TAYOS/PickCounter) | Count guitar picks in images with color classification. CLI + JSON export. |
 
 ### 📐 Research with interactive demos
