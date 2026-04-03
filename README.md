@@ -45,6 +45,7 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 | Project | Description |
 |---------|-------------|
 | [**HoLCUs + QAOA**](https://github.com/DOKOS-TAYOS/HoLCUs_QAOA) | HoLCUs tests with QAOA ([arXiv:2503.01748](https://arxiv.org/abs/2503.01748)) |
+| [**Hotels-TSP-Tensor-QUDO**](https://github.com/DOKOS-TAYOS/Hotels-TSP-Tensor-QUDO) | Travel Search Engine Travelling Salesman Problem solved with QAOA using QUBO and T-QUDO formulations, with multicore and GPU acceleration with parallel workers, in CudaQ and Cirq |
 
 ### 🎓 Educational & events
 
@@ -59,7 +60,6 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 | Project | Description |
 |---------|-------------|
 | [**DifferentialLab**](https://github.com/DOKOS-TAYOS/DifferentialLab) | GUI for solving and visualizing ODEs numerically. Methods: RK45, DOP853, Radau, BDF, etc. |
-| [**Aircraft Loading Problem Tensor-QUDO**](https://github.com/DOKOS-TAYOS/Aircraft-Loading-Problem-Tensor-QUDO) | Aircraft Loading Problem with Tensor-QUDO formulation (QAOA + Simulated Annealing solvers). |
 
 
 ## 📺 When Physics
