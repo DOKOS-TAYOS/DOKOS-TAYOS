@@ -26,8 +26,8 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 
 | Project | Description |
 |---------|-------------|
-| [**RegressionLab**](https://github.com/DOKOS-TAYOS/RegressionLab) | Curve fitting tool with GUI (Streamlit + Tkinter). 20+ functions, error propagation, multilingual. |
 | [**Tensor-Network-Visualization**](https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization) | 2D and 3D tensor network visualization for Torch, Numpy, Quimb, Tensorkrowch, TenPy and TensorNetwork (Matplotlib + NetworkX). |
+| [**RegressionLab**](https://github.com/DOKOS-TAYOS/RegressionLab) | Curve fitting tool with GUI (Streamlit + Tkinter). 20+ functions, error propagation, multilingual. |
 | [**PickCounter**](https://github.com/DOKOS-TAYOS/PickCounter) | Count guitar picks in images with color classification. CLI + JSON export. |
 
 ### 📐 Research with interactive demos
@@ -44,8 +44,9 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 
 | Project | Description |
 |---------|-------------|
-| [**HoLCUs + QAOA**](https://github.com/DOKOS-TAYOS/HoLCUs_QAOA) | HoLCUs tests with QAOA ([arXiv:2503.01748](https://arxiv.org/abs/2503.01748)) |
 | [**Hotels-TSP-Tensor-QUDO**](https://github.com/DOKOS-TAYOS/Hotels-TSP-Tensor-QUDO) | Travel Search Engine Travelling Salesman Problem solved with QAOA using QUBO and T-QUDO formulations, with multicore and GPU acceleration with parallel workers, in CudaQ and Cirq |
+| [**HoLCUs + QAOA**](https://github.com/DOKOS-TAYOS/HoLCUs_QAOA) | HoLCUs tests with QAOA ([arXiv:2503.01748](https://arxiv.org/abs/2503.01748)) |
+
 
 ### 🎓 Educational & events
 
