@@ -61,6 +61,8 @@ Researcher in **tensor networks** and **quantum computing algorithms** applied t
 | Project | Description |
 |---------|-------------|
 | [**DifferentialLab**](https://github.com/DOKOS-TAYOS/DifferentialLab) | GUI for solving and visualizing ODEs numerically. Methods: RK45, DOP853, Radau, BDF, etc. |
+| [**quantum-circuit-drawer**](https://github.com/DOKOS-TAYOS/quantum-circuit-drawer) | Backend-agnostic quantum circuit drawing library with Matplotlib as the first renderer. |
+| [**Tensor-Network-Editor**](https://github.com/DOKOS-TAYOS/Tensor-Network-Editor) | Interactive local editor for building tensor networks visually and generating readable Python code for tensornetwork, quimb, tensorkrowch, and einsum. |
 
 
 ## 📺 When Physics
