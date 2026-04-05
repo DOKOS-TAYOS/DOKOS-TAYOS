@@ -3,11 +3,6 @@
   <a href="./README.es.md"><strong>Español</strong></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/creator-scientist-dark.svg">
-  <img alt="Banner abstracto inspirado en tensor networks, computación científica y software cuántico" src="./assets/creator-scientist-light.svg" width="100%">
-</picture>
-
 <h1 align="center">Alejandro Mata Ali</h1>
 
 <p align="center">
@@ -23,7 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DOKOS-TAYOS"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DOKOS--TAYOS-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mata-ali-alejandro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro_Mata_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/@whenphysics"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@whenphysics-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://orcid.org/0009-0006-7289-8827"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0006--7289--8827-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
