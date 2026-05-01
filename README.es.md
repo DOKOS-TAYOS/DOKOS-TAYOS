@@ -136,7 +136,6 @@ Si quieres ver el catálogo completo, aquí tienes el mapa de repositorios agrup
 - [quantum-circuit-drawer](https://github.com/DOKOS-TAYOS/quantum-circuit-drawer) - librería agnóstica para dibujar circuitos
 - [RegressionLab](https://github.com/DOKOS-TAYOS/RegressionLab) - herramienta de ajuste de curvas con interfaz gráfica
 - [DifferentialLab](https://github.com/DOKOS-TAYOS/DifferentialLab) - solver y visualizador de ecuaciones diferenciales
-- [PickCounter](https://github.com/DOKOS-TAYOS/PickCounter) - conteo de púas en imágenes con clasificación por color
 
 ### Repositorios de investigación
 
@@ -153,6 +152,19 @@ Si quieres ver el catálogo completo, aquí tienes el mapa de repositorios agrup
 - [Curso Algoritmos Cuánticos Qiskit](https://github.com/DOKOS-TAYOS/Curso_Algoritmos_Cuanticos_Qiskit) - curso de algoritmos cuánticos con notebooks prácticos
 - [QAOA Foro Nuevos Paradigmas](https://github.com/DOKOS-TAYOS/QAOA_Foro_Nuevos_Paradigmas) - implementación de QAOA preparada para un foro público
 - [Mini-Qiskit with Tensor Networks](https://github.com/DOKOS-TAYOS/Mini-Qiskit_with_Tensor_Networks) - mini implementación educativa construida con tensor networks
+- [Shor-Algorithm](https://github.com/DOKOS-TAYOS/Shor-Algorithm) - implementación educativa alrededor del algoritmo de Shor
+- [IBM-Qiskit-Fall-Fest-Quantum-Challenge](https://github.com/DOKOS-TAYOS/IBM-Qiskit-Fall-Fest-Quantum-Challenge) - notebooks y entrega para el IBM Qiskit Fall Fest Quantum Challenge
+
+### Física computacional y experimentos anteriores
+
+- [Experimento-FPUT](https://github.com/DOKOS-TAYOS/Experimento-FPUT) - experimento computacional sobre el problema de Fermi-Pasta-Ulam-Tsingou
+- [Skyrme-rho-with-6-term-in-instanton-app](https://github.com/DOKOS-TAYOS/Skyrme-rho-with-6-term-in-instanton-app) - repositorio de física computacional centrado en una aplicación del modelo de Skyrme
+
+### Utilidades y experimentos laterales
+
+- [PickCounter](https://github.com/DOKOS-TAYOS/PickCounter) - conteo de púas en imágenes con clasificación por color
+- [desktop_config](https://github.com/DOKOS-TAYOS/desktop_config) - repositorio con tu configuración personal de escritorio
+- [Sun-Glare-Aware-Router](https://github.com/DOKOS-TAYOS/Sun-Glare-Aware-Router) - experimento de planificación de rutas que tiene en cuenta el deslumbramiento solar
 
 </details>
 

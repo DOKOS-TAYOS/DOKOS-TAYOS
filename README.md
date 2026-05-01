@@ -131,7 +131,6 @@ If you want the full catalog, here is the repository map grouped by intent.
 - [quantum-circuit-drawer](https://github.com/DOKOS-TAYOS/quantum-circuit-drawer) - backend-agnostic circuit drawing library
 - [RegressionLab](https://github.com/DOKOS-TAYOS/RegressionLab) - curve fitting tool with GUI
 - [DifferentialLab](https://github.com/DOKOS-TAYOS/DifferentialLab) - differential equation solver and visualizer
-- [PickCounter](https://github.com/DOKOS-TAYOS/PickCounter) - image-based guitar pick counting and color classification
 
 ### Research repositories
 
@@ -148,6 +147,19 @@ If you want the full catalog, here is the repository map grouped by intent.
 - [Curso Algoritmos Cuanticos Qiskit](https://github.com/DOKOS-TAYOS/Curso_Algoritmos_Cuanticos_Qiskit) - quantum algorithms course with practical notebooks
 - [QAOA Foro Nuevos Paradigmas](https://github.com/DOKOS-TAYOS/QAOA_Foro_Nuevos_Paradigmas) - QAOA implementation prepared for a public forum
 - [Mini-Qiskit with Tensor Networks](https://github.com/DOKOS-TAYOS/Mini-Qiskit_with_Tensor_Networks) - educational mini implementation built with tensor networks
+- [Shor-Algorithm](https://github.com/DOKOS-TAYOS/Shor-Algorithm) - educational implementation around Shor's algorithm
+- [IBM-Qiskit-Fall-Fest-Quantum-Challenge](https://github.com/DOKOS-TAYOS/IBM-Qiskit-Fall-Fest-Quantum-Challenge) - notebooks and submission for the IBM Qiskit Fall Fest Quantum Challenge
+
+### Computational physics and legacy experiments
+
+- [Experimento-FPUT](https://github.com/DOKOS-TAYOS/Experimento-FPUT) - computational experiment around the Fermi-Pasta-Ulam-Tsingou problem
+- [Skyrme-rho-with-6-term-in-instanton-app](https://github.com/DOKOS-TAYOS/Skyrme-rho-with-6-term-in-instanton-app) - computational physics repository focused on a Skyrme model application
+
+### Utilities and side experiments
+
+- [PickCounter](https://github.com/DOKOS-TAYOS/PickCounter) - image-based guitar pick counting and color classification
+- [desktop_config](https://github.com/DOKOS-TAYOS/desktop_config) - personal desktop configuration repository
+- [Sun-Glare-Aware-Router](https://github.com/DOKOS-TAYOS/Sun-Glare-Aware-Router) - route-planning experiment that considers sun glare conditions
 
 </details>
 
