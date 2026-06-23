@@ -3,19 +3,23 @@
   <a href="./README.es.md"><strong>Español</strong></a>
 </p>
 
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Banner morado de perfil científico con elementos visuales inspirados en redes" width="100%">
+</p>
+
 <h1 align="center">Alejandro Mata Ali</h1>
 
 <p align="center">
-  <strong>Software científico, algoritmos cuánticos, tensor networks y física computacional</strong>
+  <strong>Investigador · Desarrollador de software científico · Docente · Divulgador científico</strong>
 </p>
 
 <p align="center">
-  Investigador, desarrollador, docente y divulgador científico que convierte ideas avanzadas en herramientas reutilizables,
-  código reproducible y explicaciones que de verdad se pueden aprovechar.
+  Algoritmos cuánticos, tensor networks, optimización y física computacional convertidos en
+  herramientas reutilizables, flujos reproducibles y explicaciones que de verdad se pueden aprovechar.
 </p>
 
 <p align="center">
-  Quantum Coordinator en ITCL | Burgos, España
+  Quantum Coordinator en ITCL · Burgos, España
 </p>
 
 <p align="center">
@@ -25,20 +29,20 @@
 </p>
 
 <p align="center">
-  <img alt="Computación Cuántica" src="https://img.shields.io/badge/Computaci%C3%B3n%20Cu%C3%A1ntica-0f172a?style=flat-square">
-  <img alt="Tensor Networks" src="https://img.shields.io/badge/Tensor%20Networks-1d4ed8?style=flat-square">
-  <img alt="Software Científico" src="https://img.shields.io/badge/Software%20Cient%C3%ADfico-0f766e?style=flat-square">
-  <img alt="Física Computacional" src="https://img.shields.io/badge/F%C3%ADsica%20Computacional-b45309?style=flat-square">
-  <img alt="Docencia" src="https://img.shields.io/badge/Docencia-9a3412?style=flat-square">
-  <img alt="Divulgación Científica" src="https://img.shields.io/badge/Divulgaci%C3%B3n%20Cient%C3%ADfica-1f2937?style=flat-square">
+  <img alt="Algoritmos Cuánticos" src="https://img.shields.io/badge/Algoritmos%20Cu%C3%A1nticos-4C1D95?style=flat-square">
+  <img alt="Tensor Networks" src="https://img.shields.io/badge/Tensor%20Networks-6D28D9?style=flat-square">
+  <img alt="Software Científico" src="https://img.shields.io/badge/Software%20Cient%C3%ADfico-7C3AED?style=flat-square">
+  <img alt="Física Computacional" src="https://img.shields.io/badge/F%C3%ADsica%20Computacional-5B21B6?style=flat-square">
+  <img alt="Docencia" src="https://img.shields.io/badge/Docencia-8B5CF6?style=flat-square">
+  <img alt="Divulgación Científica" src="https://img.shields.io/badge/Divulgaci%C3%B3n%20Cient%C3%ADfica-A855F7?style=flat-square">
 </p>
 
 <p align="center">
   <a href="#vision-general">Visión General</a> |
   <a href="#proyectos-principales">Proyectos Principales</a> |
+  <a href="#brujula-del-perfil">Brújula del Perfil</a> |
   <a href="#investigacion-y-papers">Investigación y Papers</a> |
   <a href="#docencia-y-divulgacion">Docencia y Divulgación</a> |
-  <a href="#direccion-actual">Dirección Actual</a> |
   <a href="#mapa-de-proyectos">Mapa de Proyectos</a> |
   <a href="#stack">Stack</a>
 </p>
@@ -46,22 +50,45 @@
 <a id="vision-general"></a>
 ## Visión General
 
-Este perfil es el mapa público de mi trabajo entre investigación, software científico y educación.
-Construyo herramientas y material de aprendizaje para que los algoritmos cuánticos, los tensor networks, la optimización y los métodos numéricos sean más fáciles de ejecutar, inspeccionar, visualizar y explicar.
+Este perfil es la página pública de entrada a mi trabajo entre investigación, software científico, docencia y divulgación.
+Si llegas aquí desde un paper, un repositorio, un curso o una charla, este README está pensado para ayudarte a encontrar rápido el punto de entrada adecuado.
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <strong>Investigación</strong><br>
-      Algoritmos cuánticos, tensor networks, métodos de optimización y física computacional conectados con papers y experimentos.
+      Algoritmos cuánticos, tensor networks, métodos de optimización y física computacional conectados con papers, experimentos y flujos reproducibles.
     </td>
     <td width="33%" valign="top">
       <strong>Software Científico</strong><br>
-      Librerías Python, herramientas visuales, GUIs y plantillas reutilizables que convierten flujos de investigación en herramientas prácticas y reproducibles.
+      Librerías Python, herramientas visuales, GUIs y plantillas reutilizables que hacen más sencillo inspeccionar, probar y reutilizar flujos avanzados.
     </td>
     <td width="33%" valign="top">
       <strong>Docencia y Divulgación</strong><br>
-      Cursos, notebooks, demos y comunicación pública para hacer temas avanzados más claros sin vaciarlos de contenido.
+      Cursos, notebooks, demos y comunicación pública pensados para hacer temas avanzados más claros sin vaciarlos de contenido.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Si vienes por papers</strong><br>
+      Empieza en <a href="#investigacion-y-papers">Investigación y Papers</a> y luego abre el <a href="#mapa-de-proyectos">Mapa de Proyectos</a>.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Si vienes por herramientas utilizables</strong><br>
+      Empieza en <a href="#proyectos-principales">Proyectos Principales</a> para ver los repos más fuertes en software.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Si vienes a aprender</strong><br>
+      Ve a <a href="#docencia-y-divulgacion">Docencia y Divulgación</a> para cursos, notebooks y demos.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Si quieres verlo todo</strong><br>
+      Abre el catálogo completo desplegable en <a href="#mapa-de-proyectos">Mapa de Proyectos</a>.
     </td>
   </tr>
 </table>
@@ -69,11 +96,13 @@ Construyo herramientas y material de aprendizaje para que los algoritmos cuánti
 <a id="proyectos-principales"></a>
 ## Proyectos Principales
 
+Estos son los repositorios que mejor representan la intersección entre investigación, herramientas y usabilidad dentro de mi trabajo.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization">Tensor-Network-Visualization</a></h3>
-      <p>Visualización 2D y 3D de tensor networks para Torch, NumPy, Quimb, Tensorkrowch, TenPy y TensorNetwork, pensada para análisis, depuración y comunicación científica.</p>
+      <p>Visualización 2D y 3D de tensor networks para Torch, NumPy, Quimb, Tensorkrowch, TenPy y TensorNetwork, pensada para análisis, depuración y comunicación.</p>
       <p><code>Visualización</code> <code>Python Científico</code> <code>Tensor Networks</code></p>
     </td>
     <td width="50%" valign="top">
@@ -102,11 +131,32 @@ Construyo herramientas y material de aprendizaje para que los algoritmos cuánti
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/Traveling_Salesman_Problem_with_Tensor_Networks">TSP with Tensor Networks</a></h3>
-      <p>Solver del TSP inspirado en ideas cuánticas, construido como una exploración de investigación en tensor networks, optimización y comunicación científica.</p>
+      <p>Solver del TSP inspirado en ideas cuánticas, construido como una exploración de investigación sobre tensor networks, optimización y comunicación científica.</p>
       <p><code>Investigación</code> <code>Optimización</code> <code>Tensor Networks</code></p>
     </td>
   </tr>
 </table>
+
+<a id="brujula-del-perfil"></a>
+## Brújula del Perfil
+
+```mermaid
+flowchart TD
+    A["Empieza aquí"] --> B["Investigación y papers"]
+    A --> C["Software científico"]
+    A --> D["Docencia y divulgación"]
+    A --> E["Mapa completo de repos"]
+    B --> B1["Algoritmos, tensor networks, optimización"]
+    C --> C1["Librerías, GUIs y herramientas visuales"]
+    D --> D1["Cursos, notebooks y comunicación pública"]
+    E --> E1["Recorre el catálogo completo"]
+
+    style A fill:#4c1d95,color:#ffffff,stroke:#c4b5fd,stroke-width:2px
+    style B fill:#5b21b6,color:#ffffff,stroke:#ddd6fe
+    style C fill:#6d28d9,color:#ffffff,stroke:#ddd6fe
+    style D fill:#7c3aed,color:#ffffff,stroke:#ddd6fe
+    style E fill:#8b5cf6,color:#ffffff,stroke:#ede9fe
+```
 
 <a id="investigacion-y-papers"></a>
 ## Investigación y Papers
@@ -124,7 +174,7 @@ Estos repositorios están conectados directamente con papers, experimentos e ide
 <a id="docencia-y-divulgacion"></a>
 ## Docencia y Divulgación
 
-Uso GitHub no solo para publicar resultados, sino también para enseñar y explicar ideas de forma más abierta:
+Uso GitHub no solo para publicar resultados, sino también para enseñar y comunicar ideas de forma más abierta:
 
 - [Curso_Algoritmos_Cuanticos_Qiskit](https://github.com/DOKOS-TAYOS/Curso_Algoritmos_Cuanticos_Qiskit) - curso de algoritmos cuánticos con notebooks prácticos de Qiskit
 - [QAOA_Foro_Nuevos_Paradigmas](https://github.com/DOKOS-TAYOS/QAOA_Foro_Nuevos_Paradigmas) - implementación de QAOA preparada para una sesión pública
@@ -135,10 +185,9 @@ Uso GitHub no solo para publicar resultados, sino también para enseñar y expli
 También llevo [When Physics](https://www.youtube.com/@whenphysics), un canal donde comparto física y computación cuántica con una audiencia más amplia.
 
 <p align="center">
-  <a href="https://www.youtube.com/@whenphysics"><img alt="Ver When Physics" src="https://img.shields.io/badge/Ver-When%20Physics-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@whenphysics"><img alt="Ver When Physics" src="https://img.shields.io/badge/Ver-When%20Physics-7E22CE?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<a id="direccion-actual"></a>
 ## Dirección Actual
 
 Ahora mismo estoy especialmente centrado en:
@@ -151,6 +200,27 @@ Ahora mismo estoy especialmente centrado en:
 ## Mapa de Proyectos
 
 Si quieres ver el catálogo más amplio, aquí tienes el mapa de repositorios agrupado por intención.
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>Leer papers</strong><br>
+      Algoritmos con tensor networks, optimización, HHL, QAOA y otros repos de investigación.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Usar herramientas</strong><br>
+      Editores visuales, GUIs científicas y software reutilizable para investigación y docencia.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Aprender conceptos</strong><br>
+      Cursos, notebooks, implementaciones educativas y material de talleres.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Explorar trabajo lateral</strong><br>
+      Plantillas, utilidades, proyectos previos y experimentos aplicados más pequeños.
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><strong>Abrir el mapa completo de proyectos</strong></summary>
@@ -216,7 +286,7 @@ Si quieres ver el catálogo más amplio, aquí tienes el mapa de repositorios ag
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white">
-  <img alt="Tensor Networks" src="https://img.shields.io/badge/Tensor%20Networks-1d4ed8?style=flat-square">
+  <img alt="Tensor Networks" src="https://img.shields.io/badge/Tensor%20Networks-6D28D9?style=flat-square">
   <img alt="CUDA-Q" src="https://img.shields.io/badge/CUDA--Q-76B900?style=flat-square">
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">

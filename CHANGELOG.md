@@ -2,6 +2,13 @@
 
 All notable changes to this profile repository will be documented in this file.
 
+## 2026-06-23
+
+- Rebuilt both profile READMEs into a more visual landing-page style while keeping the tone professional for research, education, and outreach.
+- Added a custom purple SVG hero banner to give the profile a stronger visual identity without depending on JavaScript.
+- Introduced a Mermaid "compass" section and clearer entry points so visitors can quickly choose between papers, software, teaching material, or the full repository map.
+- Kept the full expandable project catalog in both languages while improving the surrounding structure, navigation, and bilingual consistency.
+
 ## 2026-06-22
 
 - Redesigned both profile READMEs with a stronger professional narrative around research, scientific software, teaching, and science communication.
