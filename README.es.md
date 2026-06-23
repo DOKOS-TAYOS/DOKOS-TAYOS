@@ -56,42 +56,23 @@ Si llegas aquí desde un paper, un repositorio, un curso o una charla, este READ
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Investigación</strong><br>
+      <strong><a href="#investigacion-y-papers">Investigación</a></strong><br>
       Algoritmos cuánticos, tensor networks, métodos de optimización y física computacional conectados con papers, experimentos y flujos reproducibles.
     </td>
     <td width="33%" valign="top">
-      <strong>Software Científico</strong><br>
+      <strong><a href="#proyectos-principales">Software Científico</a></strong><br>
       Librerías Python, herramientas visuales, GUIs y plantillas reutilizables que hacen más sencillo inspeccionar, probar y reutilizar flujos avanzados.
     </td>
     <td width="33%" valign="top">
-      <strong>Docencia y Divulgación</strong><br>
+      <strong><a href="#docencia-y-divulgacion">Docencia y Divulgación</a></strong><br>
       Cursos, notebooks, demos y comunicación pública pensados para hacer temas avanzados más claros sin vaciarlos de contenido.
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Si vienes por papers</strong><br>
-      Empieza en <a href="#investigacion-y-papers">Investigación y Papers</a> y luego abre el <a href="#mapa-de-proyectos">Mapa de Proyectos</a>.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Si vienes por herramientas utilizables</strong><br>
-      Empieza en <a href="#proyectos-principales">Proyectos Principales</a> para ver los repos más fuertes en software.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Si vienes a aprender</strong><br>
-      Ve a <a href="#docencia-y-divulgacion">Docencia y Divulgación</a> para cursos, notebooks y demos.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Si quieres verlo todo</strong><br>
-      Abre el catálogo completo desplegable en <a href="#mapa-de-proyectos">Mapa de Proyectos</a>.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#mapa-de-proyectos">Abrir el mapa completo de repositorios</a>
+</p>
 
 <a id="proyectos-principales"></a>
 ## Proyectos Principales

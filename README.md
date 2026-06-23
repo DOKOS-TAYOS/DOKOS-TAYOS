@@ -56,42 +56,23 @@ If you arrive here through a paper, a repository, a class, or a talk, this READM
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Research</strong><br>
+      <strong><a href="#research--papers">Research</a></strong><br>
       Quantum algorithms, tensor networks, optimization methods, and computational physics connected to papers, experiments, and reproducible workflows.
     </td>
     <td width="33%" valign="top">
-      <strong>Scientific Software</strong><br>
+      <strong><a href="#flagship-projects">Scientific Software</a></strong><br>
       Python libraries, visual tooling, GUIs, and reusable templates that make advanced workflows easier to inspect, test, and reuse.
     </td>
     <td width="33%" valign="top">
-      <strong>Teaching & Outreach</strong><br>
+      <strong><a href="#teaching--outreach">Teaching & Outreach</a></strong><br>
       Courses, notebooks, demos, and public communication designed to make advanced topics clearer without flattening their depth.
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>If you are here for papers</strong><br>
-      Start in <a href="#research--papers">Research & Papers</a> and then open the full <a href="#project-atlas">Project Atlas</a>.
-    </td>
-    <td width="50%" valign="top">
-      <strong>If you are here for usable tools</strong><br>
-      Start in <a href="#flagship-projects">Flagship Projects</a> for the strongest software-facing repositories.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>If you are here to learn</strong><br>
-      Go to <a href="#teaching--outreach">Teaching & Outreach</a> for courses, notebooks, and demos.
-    </td>
-    <td width="50%" valign="top">
-      <strong>If you want the whole map</strong><br>
-      Open the expandable repository catalog in <a href="#project-atlas">Project Atlas</a>.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#project-atlas">Open the full repository atlas</a>
+</p>
 
 <a id="flagship-projects"></a>
 ## Flagship Projects

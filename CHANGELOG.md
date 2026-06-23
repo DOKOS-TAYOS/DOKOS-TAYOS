@@ -8,6 +8,7 @@ All notable changes to this profile repository will be documented in this file.
 - Added a custom purple SVG hero banner to give the profile a stronger visual identity without depending on JavaScript.
 - Introduced a Mermaid "compass" section and clearer entry points so visitors can quickly choose between papers, software, teaching material, or the full repository map.
 - Kept the full expandable project catalog in both languages while improving the surrounding structure, navigation, and bilingual consistency.
+- Compacted the overview area by removing the extra guidance table and moving the key section links into the headers of the main identity table.
 
 ## 2026-06-22
 
