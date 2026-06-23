@@ -4,10 +4,10 @@ All notable changes to this profile repository will be documented in this file.
 
 ## 2026-06-22
 
-- Rewrote both profile READMEs to give the English and Spanish versions a clearer narrative structure.
-- Added a dedicated section for newer public repositories that were missing from the previous profile map.
-- Expanded the project map so it now reflects the broader public catalog, including `Ajustador`, `Tensor-Network-Image-Analysis-Template`, `TransTools`, `sunny-places`, `vibe_template`, `mbqc-tn`, and the profile repository itself.
-- Refined the positioning of the profile around scientific software, quantum algorithms, tensor networks, teaching, and outreach.
+- Redesigned both profile READMEs with a stronger professional narrative around research, scientific software, teaching, and science communication.
+- Rebuilt the header and section flow so the profile introduces identity and flagship work before moving into papers, outreach, and the full repository map.
+- Kept the flagship repositories and full project map while tightening the wording to feel more polished, confident, and profile-oriented.
+- Refined the English and Spanish versions independently so both read naturally instead of feeling like a literal mirror.
 
 ## 2026-05-01
 

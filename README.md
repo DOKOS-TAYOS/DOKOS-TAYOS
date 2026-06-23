@@ -6,15 +6,16 @@
 <h1 align="center">Alejandro Mata Ali</h1>
 
 <p align="center">
-  <strong>Quantum algorithms, tensor networks, and scientific software</strong>
+  <strong>Scientific software, quantum algorithms, tensor networks, and computational physics</strong>
 </p>
 
 <p align="center">
-  Researcher, developer, and science communicator building tools, papers, demos, and teaching material around computational physics, optimization, and quantum computing.
+  Researcher, developer, educator, and science communicator turning advanced ideas into reusable tools,
+  reproducible code, and explanations people can actually use.
 </p>
 
 <p align="center">
-  Quantum Coordinator at ITCL in Burgos, Spain
+  Quantum Coordinator at ITCL | Burgos, Spain
 </p>
 
 <p align="center">
@@ -28,95 +29,102 @@
   <img alt="Tensor Networks" src="https://img.shields.io/badge/Tensor%20Networks-1d4ed8?style=flat-square">
   <img alt="Scientific Software" src="https://img.shields.io/badge/Scientific%20Software-0f766e?style=flat-square">
   <img alt="Computational Physics" src="https://img.shields.io/badge/Computational%20Physics-b45309?style=flat-square">
-  <img alt="Science Communication" src="https://img.shields.io/badge/Science%20Communication-7c3aed?style=flat-square">
+  <img alt="Education" src="https://img.shields.io/badge/Education-9a3412?style=flat-square">
+  <img alt="Science Communication" src="https://img.shields.io/badge/Science%20Communication-1f2937?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="#featured-projects">Featured Projects</a> |
-  <a href="#recent-additions">Recent Additions</a> |
-  <a href="#research-in-code">Research in Code</a> |
-  <a href="#learning--outreach">Learning & Outreach</a> |
-  <a href="#current-focus">Current Focus</a> |
+  <a href="#overview">Overview</a> |
+  <a href="#flagship-projects">Flagship Projects</a> |
+  <a href="#research--papers">Research & Papers</a> |
+  <a href="#teaching--outreach">Teaching & Outreach</a> |
+  <a href="#current-direction">Current Direction</a> |
   <a href="#project-map">Project Map</a> |
   <a href="#stack">Stack</a>
 </p>
 
-## What you will find here
+<a id="overview"></a>
+## Overview
 
-This profile is the public map of my work. It brings together research repositories, reusable scientific software, classroom material, and smaller experiments that sometimes grow into larger tools.
+This profile is the public map of my work across research, scientific software, and education.
+I build tools and learning material that make quantum algorithms, tensor networks, optimization, and numerical methods easier to run, inspect, visualize, and explain.
 
-I work mostly where tensor networks, quantum algorithms, numerical methods, and practical scientific Python meet. I like projects that make advanced ideas easier to run, inspect, visualize, and explain.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Research</strong><br>
+      Quantum algorithms, tensor networks, optimization methods, and computational physics connected to papers and experiments.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Scientific Software</strong><br>
+      Python libraries, visual tools, GUIs, and reusable templates that turn research workflows into practical and reproducible tools.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Teaching & Outreach</strong><br>
+      Courses, notebooks, demos, and public communication designed to make advanced topics clearer without flattening their depth.
+    </td>
+  </tr>
+</table>
 
-<a id="featured-projects"></a>
-## Featured Projects
+<a id="flagship-projects"></a>
+## Flagship Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization">Tensor-Network-Visualization</a></h3>
-      <p>2D and 3D tensor network visualization for Torch, NumPy, Quimb, Tensorkrowch, TenPy, and TensorNetwork.</p>
+      <p>2D and 3D tensor network visualization across Torch, NumPy, Quimb, Tensorkrowch, TenPy, and TensorNetwork for analysis, debugging, and communication.</p>
       <p><code>Visualization</code> <code>Scientific Python</code> <code>Tensor Networks</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/Tensor-Network-Editor">Tensor-Network-Editor</a></h3>
-      <p>Interactive local editor for building tensor networks visually and generating readable Python code for several backends.</p>
-      <p><code>Tensor Networks</code> <code>Visual Tools</code> <code>Code Generation</code></p>
+      <p>Interactive local editor for designing tensor networks visually and exporting readable Python code for several backends.</p>
+      <p><code>Tensor Networks</code> <code>Visual Tooling</code> <code>Code Generation</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/quantum-circuit-drawer">quantum-circuit-drawer</a></h3>
-      <p>Matplotlib-based library for drawing quantum circuits, plotting measurement results, and comparing outputs across several ecosystems.</p>
+      <p>Matplotlib-based library for drawing quantum circuits, plotting measurement results, and comparing outputs across different ecosystems.</p>
       <p><code>Quantum Circuits</code> <code>Python</code> <code>Visualization</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/RegressionLab">RegressionLab</a></h3>
-      <p>Scientific curve fitting tool with GUI, multiple models, uncertainty analysis, and polished visual output.</p>
+      <p>Curve fitting software with GUI support, multiple models, uncertainty analysis, and polished visual output for scientific and educational work.</p>
       <p><code>Data Analysis</code> <code>Curve Fitting</code> <code>Scientific Software</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/DifferentialLab">DifferentialLab</a></h3>
-      <p>Numerical solver and visualizer for ODEs, difference equations, and PDEs with a Python GUI.</p>
+      <p>Numerical solver and visualizer for ODEs, difference equations, and PDEs through an accessible Python desktop interface.</p>
       <p><code>ODEs</code> <code>Simulation</code> <code>Scientific Software</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DOKOS-TAYOS/Traveling_Salesman_Problem_with_Tensor_Networks">TSP with Tensor Networks</a></h3>
-      <p>Quantum-inspired Traveling Salesman Problem solver with an interactive research narrative and linked paper.</p>
+      <p>Quantum-inspired TSP solver built as a research-driven exploration of tensor networks, optimization, and scientific communication.</p>
       <p><code>Research</code> <code>Optimization</code> <code>Tensor Networks</code></p>
     </td>
   </tr>
 </table>
 
-<a id="recent-additions"></a>
-## Recent Additions
+<a id="research--papers"></a>
+## Research & Papers
 
-These repositories were missing from the earlier profile map and now help complete the picture:
+These repositories connect directly to papers, experiments, and algorithmic work:
 
-- [Tensor-Network-Image-Analysis-Template](https://github.com/DOKOS-TAYOS/Tensor-Network-Image-Analysis-Template) - open-source template for tensor-network deep learning with PyTorch, TensorKrowch, typed configs, and local or SLURM workflows
-- [vibe_template](https://github.com/DOKOS-TAYOS/vibe_template) - reusable Python template with CLI support and strong quality defaults for software-oriented projects
-- [Ajustador](https://github.com/DOKOS-TAYOS/Ajustador) - earlier fitting software that also serves as historical background for later tools such as RegressionLab
-- [mbqc-tn](https://github.com/DOKOS-TAYOS/mbqc-tn) - compact exploratory work around MBQC and tensor-network ideas
-- [sunny-places](https://github.com/DOKOS-TAYOS/sunny-places) and [TransTools](https://github.com/DOKOS-TAYOS/TransTools) - smaller public side projects and support utilities that now appear in the profile map
-
-<a id="research-in-code"></a>
-## Research in Code
-
-These repositories connect directly to papers, experiments, and algorithmic ideas I have worked on:
-
-- [TSP with Tensor Networks](https://github.com/DOKOS-TAYOS/Traveling_Salesman_Problem_with_Tensor_Networks) - quantum-inspired Traveling Salesman Problem solver. [Paper](https://arxiv.org/abs/2311.14344)
-- [HHL with Tensor Networks](https://github.com/DOKOS-TAYOS/Tensor_Networks_HHL_algorithm) - classical simulation of the HHL algorithm. [Paper](https://arxiv.org/abs/2309.05290)
-- [Linear Chain QUBO and QUDO](https://github.com/DOKOS-TAYOS/Lineal_chain_QUBO_QUDO_TensorQUDO_Solver_with_Tensor_Networks) - polynomial-time solver for tridiagonal QUBO, QUDO, and Tensor QUDO. [Paper](https://arxiv.org/abs/2309.10509)
+- [TSP with Tensor Networks](https://github.com/DOKOS-TAYOS/Traveling_Salesman_Problem_with_Tensor_Networks) - quantum-inspired TSP solver with a research narrative around tensor networks. [Paper](https://arxiv.org/abs/2311.14344)
+- [HHL with Tensor Networks](https://github.com/DOKOS-TAYOS/Tensor_Networks_HHL_algorithm) - classical simulation of the HHL algorithm with tensor networks. [Paper](https://arxiv.org/abs/2309.05290)
+- [Linear Chain QUBO and QUDO](https://github.com/DOKOS-TAYOS/Lineal_chain_QUBO_QUDO_TensorQUDO_Solver_with_Tensor_Networks) - polynomial-time solver for tridiagonal QUBO, QUDO, and Tensor QUDO formulations. [Paper](https://arxiv.org/abs/2309.10509)
 - [Efficient Tensor Network Initialization](https://github.com/DOKOS-TAYOS/Efficient_Initialization_Tensor_Networks) - finite initialization with partial norms for tensor neural networks. [Paper](https://arxiv.org/abs/2309.06577)
 - [Task Scheduler with Tensor Networks](https://github.com/DOKOS-TAYOS/Task_Scheduler_with_Tensor_Networks) - scheduling optimization through tensor network methods. [Paper](https://arxiv.org/abs/2311.10433)
-- [HoLCUs + QAOA](https://github.com/DOKOS-TAYOS/HoLCUs_QAOA) - HoLCUs experiments connected to QAOA. [Paper](https://arxiv.org/abs/2503.01748)
+- [HoLCUs_QAOA](https://github.com/DOKOS-TAYOS/HoLCUs_QAOA) - HoLCUs experiments connected to QAOA and quantum optimization. [Paper](https://arxiv.org/abs/2503.01748)
 - [Hotels-TSP-Tensor-QUDO](https://github.com/DOKOS-TAYOS/Hotels-TSP-Tensor-QUDO) - travel-search-style TSP explored through QAOA, QUBO, and Tensor QUDO formulations
 
-<a id="learning--outreach"></a>
-## Learning & Outreach
+<a id="teaching--outreach"></a>
+## Teaching & Outreach
 
-I also use GitHub as a place for teaching material, public demos, and more approachable explanations:
+I use GitHub not only to publish results, but also to teach and communicate ideas more openly:
 
 - [Curso_Algoritmos_Cuanticos_Qiskit](https://github.com/DOKOS-TAYOS/Curso_Algoritmos_Cuanticos_Qiskit) - quantum algorithms course with practical Qiskit notebooks
 - [QAOA_Foro_Nuevos_Paradigmas](https://github.com/DOKOS-TAYOS/QAOA_Foro_Nuevos_Paradigmas) - workshop-style QAOA implementation prepared for a public session
@@ -124,32 +132,32 @@ I also use GitHub as a place for teaching material, public demos, and more appro
 - [Shor-Algorithm](https://github.com/DOKOS-TAYOS/Shor-Algorithm) - educational implementation and review material around Shor's algorithm
 - [IBM-Qiskit-Fall-Fest-Quantum-Challenge](https://github.com/DOKOS-TAYOS/IBM-Qiskit-Fall-Fest-Quantum-Challenge) - notebooks and submission for the IBM Qiskit Fall Fest Quantum Challenge
 
-I also run [When Physics](https://www.youtube.com/@whenphysics), where I share physics and quantum computing with a broader audience.
+I also run [When Physics](https://www.youtube.com/@whenphysics), a channel where I share physics and quantum computing with a broader audience.
 
 <p align="center">
-  <a href="https://www.youtube.com/@whenphysics"><img alt="YouTube channel" src="https://img.shields.io/badge/Watch-When%20Physics-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@whenphysics"><img alt="Watch When Physics" src="https://img.shields.io/badge/Watch-When%20Physics-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<a id="current-focus"></a>
-## Current Focus
+<a id="current-direction"></a>
+## Current Direction
 
 Right now I am especially focused on:
 
-- making tensor-network tooling more visual, inspectable, and code-friendly
-- turning research prototypes into reusable scientific Python packages
-- building learning material that connects quantum algorithms with runnable code
+- building tensor-network tooling that is more visual, inspectable, and code-friendly
+- turning research prototypes into reusable and better structured scientific Python packages
+- connecting advanced quantum and numerical ideas with material that works for both specialists and learners
 
 <a id="project-map"></a>
 ## Project Map
 
-If you want the full public catalog, here is the repository map grouped by intent.
+If you want the broader catalog, here is the repository map grouped by intent.
 
 <details>
   <summary><strong>Open the full project map</strong></summary>
 
 ### Scientific software and libraries
 
-- [Tensor-Network-Visualization](https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization) - 2D and 3D tensor-network visualization across major Python backends
+- [Tensor-Network-Visualization](https://github.com/DOKOS-TAYOS/Tensor-Network-Visualization) - 2D and 3D tensor network visualization across major Python backends
 - [Tensor-Network-Editor](https://github.com/DOKOS-TAYOS/Tensor-Network-Editor) - visual editor that exports readable Python code for several tensor-network ecosystems
 - [quantum-circuit-drawer](https://github.com/DOKOS-TAYOS/quantum-circuit-drawer) - Matplotlib-based quantum circuit drawing and result visualization
 - [RegressionLab](https://github.com/DOKOS-TAYOS/RegressionLab) - curve fitting GUI for experimental and classroom data
@@ -187,7 +195,7 @@ If you want the full public catalog, here is the repository map grouped by inten
 
 - [Tensor-Network-Image-Analysis-Template](https://github.com/DOKOS-TAYOS/Tensor-Network-Image-Analysis-Template) - starter for tensor-network image classification with PyTorch and TensorKrowch
 - [vibe_template](https://github.com/DOKOS-TAYOS/vibe_template) - reusable Python project template with CLI and quality scaffolding
-- [TransTools](https://github.com/DOKOS-TAYOS/TransTools) - small public utilities repository
+- [TransTools](https://github.com/DOKOS-TAYOS/TransTools) - public utilities repository
 - [PickCounter](https://github.com/DOKOS-TAYOS/PickCounter) - image-based guitar pick counting and color classification
 - [Sun-Glare-Aware-Router](https://github.com/DOKOS-TAYOS/Sun-Glare-Aware-Router) - route-planning experiment that accounts for sun glare
 - [sunny-places](https://github.com/DOKOS-TAYOS/sunny-places) - side experiment around sun-aware place exploration
@@ -199,6 +207,7 @@ If you want the full public catalog, here is the repository map grouped by inten
 
 </details>
 
+<a id="stack"></a>
 ## Stack
 
 <p>
@@ -215,5 +224,5 @@ If you want the full public catalog, here is the repository map grouped by inten
 </p>
 
 <p align="center">
-  <em>Turning ideas into tensor networks, scientific software, and explanations people can use.</em>
+  <em>From papers to packages, from notebooks to public explanations.</em>
 </p>
