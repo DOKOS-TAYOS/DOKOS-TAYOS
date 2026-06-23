@@ -1,19 +1,19 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Alejandro Mata Ali profile banner</title>
   <desc id="desc">A purple animated banner with the name Alejandro Mata Ali, research keywords, and a network-inspired scientific visual style.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#14051F"/>
       <stop offset="0.45" stop-color="#3B0764"/>
       <stop offset="1" stop-color="#0F172A"/>
       <animate attributeName="x1" values="0;120;0" dur="18s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="1200;1080;1200" dur="18s" repeatCount="indefinite"/>
     </linearGradient>
-    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 124) rotate(90) scale(126 240)">
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 136) rotate(90) scale(144 260)">
       <stop stop-color="#A855F7" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 188) rotate(90) scale(130 260)">
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 204) rotate(90) scale(150 280)">
       <stop stop-color="#7C3AED" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
     </radialGradient>
@@ -30,47 +30,47 @@
     </filter>
   </defs>
 
-  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="318" rx="27" stroke="#C4B5FD" stroke-opacity="0.18"/>
-  <ellipse cx="250" cy="124" rx="240" ry="126" fill="url(#glowLeft)"/>
-  <ellipse cx="930" cy="188" rx="260" ry="130" fill="url(#glowRight)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#C4B5FD" stroke-opacity="0.18"/>
+  <ellipse cx="250" cy="136" rx="240" ry="144" fill="url(#glowLeft)"/>
+  <ellipse cx="930" cy="204" rx="260" ry="150" fill="url(#glowRight)"/>
 
-  <rect x="72" y="54" width="470" height="212" rx="24" fill="url(#panel)" stroke="#C4B5FD" stroke-opacity="0.18"/>
+  <rect x="72" y="56" width="510" height="244" rx="24" fill="url(#panel)" stroke="#C4B5FD" stroke-opacity="0.18"/>
 
   <g stroke="#C4B5FD" stroke-opacity="0.34" stroke-width="2">
-    <path d="M424 214L548 152L650 182L762 128L904 168L1048 116L1146 144">
+    <path d="M454 236L578 170L680 202L792 146L934 186L1078 132L1146 160">
       <animate attributeName="stroke-opacity" values="0.22;0.48;0.22" dur="9s" repeatCount="indefinite"/>
     </path>
-    <path d="M476 104L626 138L754 96L888 142L1042 82L1162 110">
+    <path d="M506 118L656 154L784 112L918 158L1072 96L1162 126">
       <animate attributeName="stroke-opacity" values="0.18;0.42;0.18" dur="11s" repeatCount="indefinite"/>
     </path>
-    <path d="M414 256L566 226L716 252L860 208L1010 236L1136 200">
+    <path d="M444 280L596 248L746 276L890 232L1040 258L1136 224">
       <animate attributeName="stroke-opacity" values="0.16;0.38;0.16" dur="13s" repeatCount="indefinite"/>
     </path>
   </g>
 
   <g fill="#E9D5FF">
-    <circle cx="548" cy="152" r="6" filter="url(#softGlow)">
+    <circle cx="578" cy="170" r="6" filter="url(#softGlow)">
       <animate attributeName="r" values="6;8;6" dur="5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="762" cy="128" r="5" filter="url(#softGlow)">
+    <circle cx="792" cy="146" r="5" filter="url(#softGlow)">
       <animate attributeName="r" values="5;7;5" dur="4.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1048" cy="116" r="7" filter="url(#softGlow)">
+    <circle cx="1078" cy="132" r="7" filter="url(#softGlow)">
       <animate attributeName="r" values="7;10;7" dur="5.6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="626" cy="138" r="4.5" filter="url(#softGlow)">
+    <circle cx="656" cy="154" r="4.5" filter="url(#softGlow)">
       <animate attributeName="opacity" values="0.55;1;0.55" dur="4.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1010" cy="236" r="5" filter="url(#softGlow)">
+    <circle cx="1040" cy="258" r="5" filter="url(#softGlow)">
       <animate attributeName="opacity" values="0.45;0.95;0.45" dur="5.1s" repeatCount="indefinite"/>
     </circle>
   </g>
 
   <g fill="#F5F3FF" font-family="Segoe UI, Inter, Arial, sans-serif">
-    <text x="110" y="104" font-size="16" letter-spacing="3.2" fill="#DDD6FE">RESEARCH · SOFTWARE · EDUCATION · OUTREACH</text>
-    <text x="110" y="162" font-size="54" font-weight="700">Alejandro Mata Ali</text>
-    <text x="110" y="205" font-size="21" font-weight="600" fill="#F3E8FF">Researcher · Scientific software developer</text>
-    <text x="110" y="235" font-size="21" font-weight="600" fill="#F3E8FF">Educator · Science communicator</text>
+    <text x="110" y="112" font-size="15" letter-spacing="2.8" fill="#DDD6FE">QUANTUM ALGORITHMS · TENSOR NETWORKS · OPTIMIZATION · COMPUTATIONAL PHYSICS</text>
+    <text x="110" y="180" font-size="54" font-weight="700">Alejandro Mata Ali</text>
+    <text x="110" y="228" font-size="22" font-weight="600" fill="#F3E8FF">Researcher · Scientific software developer</text>
+    <text x="110" y="262" font-size="22" font-weight="600" fill="#F3E8FF">Educator · Science communicator</text>
   </g>
 </svg>

@@ -10,6 +10,7 @@ All notable changes to this profile repository will be documented in this file.
 - Kept the full expandable project catalog in both languages while improving the surrounding structure, navigation, and bilingual consistency.
 - Compacted the overview area by removing the extra guidance table and moving the key section links into the headers of the main identity table.
 - Split the hero banner into localized English and Spanish SVGs so the name and role keywords live inside the banner and the header occupies less vertical space.
+- Increased the hero text panel height and changed the top banner line from repeated roles to topic keywords so the header reads more clearly.
 
 ## 2026-06-22
 
