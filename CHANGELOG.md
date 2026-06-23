@@ -9,6 +9,7 @@ All notable changes to this profile repository will be documented in this file.
 - Introduced a Mermaid "compass" section and clearer entry points so visitors can quickly choose between papers, software, teaching material, or the full repository map.
 - Kept the full expandable project catalog in both languages while improving the surrounding structure, navigation, and bilingual consistency.
 - Compacted the overview area by removing the extra guidance table and moving the key section links into the headers of the main identity table.
+- Split the hero banner into localized English and Spanish SVGs so the name and role keywords live inside the banner and the header occupies less vertical space.
 
 ## 2026-06-22
 

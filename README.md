@@ -4,13 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Purple scientific profile banner with network-inspired visual elements" width="100%">
-</p>
-
-<h1 align="center">Alejandro Mata Ali</h1>
-
-<p align="center">
-  <strong>Researcher · Scientific software developer · Educator · Science communicator</strong>
+  <img src="./assets/profile-hero-en.svg" alt="Purple scientific profile banner with Alejandro Mata Ali's name and research keywords" width="100%">
 </p>
 
 <p align="center">

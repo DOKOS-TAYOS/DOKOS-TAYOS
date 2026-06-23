@@ -4,13 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Banner morado de perfil científico con elementos visuales inspirados en redes" width="100%">
-</p>
-
-<h1 align="center">Alejandro Mata Ali</h1>
-
-<p align="center">
-  <strong>Investigador · Desarrollador de software científico · Docente · Divulgador científico</strong>
+  <img src="./assets/profile-hero-es.svg" alt="Banner morado de perfil científico con el nombre de Alejandro Mata Ali y sus palabras clave" width="100%">
 </p>
 
 <p align="center">
