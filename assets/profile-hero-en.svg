@@ -35,42 +35,42 @@
   <ellipse cx="250" cy="136" rx="240" ry="144" fill="url(#glowLeft)"/>
   <ellipse cx="930" cy="204" rx="260" ry="150" fill="url(#glowRight)"/>
 
-  <rect x="72" y="56" width="510" height="244" rx="24" fill="url(#panel)" stroke="#C4B5FD" stroke-opacity="0.18"/>
+  <rect x="56" y="44" width="660" height="286" rx="24" fill="url(#panel)" stroke="#C4B5FD" stroke-opacity="0.18"/>
 
   <g stroke="#C4B5FD" stroke-opacity="0.34" stroke-width="2">
-    <path d="M454 236L578 170L680 202L792 146L934 186L1078 132L1146 160">
+    <path d="M564 236L688 170L790 202L902 146L1024 186L1128 132L1174 160">
       <animate attributeName="stroke-opacity" values="0.22;0.48;0.22" dur="9s" repeatCount="indefinite"/>
     </path>
-    <path d="M506 118L656 154L784 112L918 158L1072 96L1162 126">
+    <path d="M616 118L766 154L894 112L1028 158L1142 96L1182 126">
       <animate attributeName="stroke-opacity" values="0.18;0.42;0.18" dur="11s" repeatCount="indefinite"/>
     </path>
-    <path d="M444 280L596 248L746 276L890 232L1040 258L1136 224">
+    <path d="M554 280L706 248L856 276L1000 232L1110 258L1174 224">
       <animate attributeName="stroke-opacity" values="0.16;0.38;0.16" dur="13s" repeatCount="indefinite"/>
     </path>
   </g>
 
   <g fill="#E9D5FF">
-    <circle cx="578" cy="170" r="6" filter="url(#softGlow)">
+    <circle cx="688" cy="170" r="6" filter="url(#softGlow)">
       <animate attributeName="r" values="6;8;6" dur="5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="792" cy="146" r="5" filter="url(#softGlow)">
+    <circle cx="902" cy="146" r="5" filter="url(#softGlow)">
       <animate attributeName="r" values="5;7;5" dur="4.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1078" cy="132" r="7" filter="url(#softGlow)">
+    <circle cx="1128" cy="132" r="7" filter="url(#softGlow)">
       <animate attributeName="r" values="7;10;7" dur="5.6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="656" cy="154" r="4.5" filter="url(#softGlow)">
+    <circle cx="766" cy="154" r="4.5" filter="url(#softGlow)">
       <animate attributeName="opacity" values="0.55;1;0.55" dur="4.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1040" cy="258" r="5" filter="url(#softGlow)">
+    <circle cx="1110" cy="258" r="5" filter="url(#softGlow)">
       <animate attributeName="opacity" values="0.45;0.95;0.45" dur="5.1s" repeatCount="indefinite"/>
     </circle>
   </g>
 
   <g fill="#F5F3FF" font-family="Segoe UI, Inter, Arial, sans-serif">
-    <text x="110" y="112" font-size="15" letter-spacing="2.8" fill="#DDD6FE">QUANTUM ALGORITHMS · TENSOR NETWORKS · OPTIMIZATION · COMPUTATIONAL PHYSICS</text>
-    <text x="110" y="180" font-size="54" font-weight="700">Alejandro Mata Ali</text>
-    <text x="110" y="228" font-size="22" font-weight="600" fill="#F3E8FF">Researcher · Scientific software developer</text>
-    <text x="110" y="262" font-size="22" font-weight="600" fill="#F3E8FF">Educator · Science communicator</text>
+    <text x="94" y="108" font-size="18" letter-spacing="2.6" fill="#DDD6FE">TENSOR NETWORKS · QUANTUM COMPUTING · AI</text>
+    <text x="94" y="184" font-size="58" font-weight="700">Alejandro Mata Ali</text>
+    <text x="94" y="238" font-size="23" font-weight="600" fill="#F3E8FF">Researcher · Scientific software developer</text>
+    <text x="94" y="274" font-size="23" font-weight="600" fill="#F3E8FF">Educator · Science communicator</text>
   </g>
 </svg>
