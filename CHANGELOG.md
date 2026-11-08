@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-08
+
+- Refreshed both English and Spanish profile READMEs with current research, scientific software, technical coordination, applied AI, and education.
+- Prioritized the three maintained PyPI libraries and added their related 2026 arXiv preprint.
+- Updated selected 2026 publications, including the Physica Scripta HHL article and the JAIIO/ASQC Tensor QUDO paper, while distinguishing preprints from peer-reviewed publications.
+- Distinguished maintained repositories from archived research/software, corrected the description of desktop_config, and made the project list explicitly curated.
+- Simplified navigation and removed the redundant Mermaid compass; retained the existing bilingual SVG banners.
+
 All notable changes to this profile repository will be documented in this file.
 
 ## 2026-06-23
